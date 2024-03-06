@@ -86,19 +86,19 @@ education:
           profundo en problemas de visión por computadora y reconocimiento de patrones, explorando 
           nuevas fronteras en la intersección entre la tecnología y la inteligencia artificial.  
       - degree: Doctorado en Ingeniería Informática 
-          university: Universidad de Innovación Tecnológica (UIT)
-          time: 2020 - Presente
-          details:
+        university: Universidad de Innovación Tecnológica (UIT)
+        time: 2020 - 2023
+        details:
             Actualmente, estoy completando mi Doctorado en Ingeniería Informática en la Universidad  
             de Innovación Tecnológica. Mi investigación se enfoca en la aplicación de técnicas 
             avanzadas de inteligencia artificial y computación cuántica para resolver problemas 
             complejos en el campo de la ciberseguridad y la optimización de sistemas informáticos. 
             Esta experiencia me ha permitido colaborar con destacados investigadores y contribuir 
             al avance del conocimiento en el campo de la tecnología. 
-        - degree: Curso de Especialización en Desarrollo de Aplicaciones Móviles 
-          university: Universidad Virtual Tech (UVT)
-          time: 2019
-          details:
+      - degree: Curso de Especialización en Desarrollo de Aplicaciones Móviles 
+        university: Universidad Virtual Tech (UVT)
+        time: 2019
+        details:
             Como parte de mi búsqueda constante de actualización y mejora de habilidades, 
             completé un curso de especialización en Desarrollo de Aplicaciones Móviles en la 
             Universidad Virtual Tech. Durante el curso, adquirí conocimientos prácticos sobre 
