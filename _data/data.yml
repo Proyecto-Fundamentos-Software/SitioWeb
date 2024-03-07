@@ -105,10 +105,10 @@ education:
             el desarrollo de aplicaciones para dispositivos móviles utilizando las últimas 
             tecnologías y herramientas disponibles en el mercado. 
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
+    title: Experiencias
+    info: 
+      - role: Desarrollador lider
+        time: 2014 - Pasado
         company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
