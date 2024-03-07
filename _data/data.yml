@@ -107,32 +107,29 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role: Desarrollador líder
+        time: 2019 - Pasado
         company: Startup Hubs, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Durante los últimos años, he seguido desempeñándome como desarrollador líder en Startup 
+          Hubs, San Francisco. En esta etapa, he liderado la adopción de tecnologías emergentes y 
+          metodologías ágiles en nuestro proceso de desarrollo, lo que ha permitido una entrega más 
+          rápida y eficiente de productos de alta calidad. He sido responsable de establecer y 
+          mantener las mejores prácticas de desarrollo, así como de fomentar un entorno de trabajo 
+          colaborativo y de aprendizaje continuo. Además, he trabajado estrechamente con la alta 
+          dirección para desarrollar estrategias de crecimiento a largo plazo y para mantener a la 
+          empresa a la vanguardia de la innovación tecnológica.
+      - rol: Ingeniero de Software Senior
+        tiempo: 2014 - 2015
+        empresa: Google, Londres
+        detalles: |
+          Como Ingeniero de Software Senior en Google, Londres, mi papel principal fue contribuir 
+          al desarrollo de productos y servicios de software de vanguardia. Trabajé en estrecha 
+          colaboración con equipos multidisciplinarios para diseñar, desarrollar y mantener 
+          soluciones tecnológicas innovadoras. Mi enfoque estaba en la creación de software de alta 
+          calidad que cumpliera con los estándares de excelencia de Google y que ofreciera una 
+          experiencia de usuario superior. Además, participé en la revisión de código, la resolución 
+          de problemas técnicos y la optimización del rendimiento del software.
       - rol: Desarrollador de UI
         tiempo: 2012 - 2014
         empresa: Amazon, Londres
