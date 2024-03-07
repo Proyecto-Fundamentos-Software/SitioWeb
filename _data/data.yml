@@ -133,17 +133,17 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - rol: Desarrollador de UI
+        tiempo: 2012 - 2014
+        empresa: Amazon, Londres
+        detalles: |
+          Como Desarrollador de UI en Amazon, Londres, mi función principal fue diseñar y 
+          desarrollar interfaces de usuario eficientes y atractivas para aplicaciones web y móviles. 
+          Trabajé en colaboración con equipos de diseño y desarrollo para traducir los requisitos de 
+          los usuarios y las especificaciones de diseño en interfaces de usuario funcionales. Además, 
+          me encargué de la optimización del rendimiento y la compatibilidad multiplataforma de las 
+          interfaces de usuario, asegurando una experiencia de usuario óptima en diferentes 
+          dispositivos y navegadores.
 
 certifications:
       title: Certifications
