@@ -111,28 +111,25 @@ experiences:
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Durante los últimos años, he seguido desempeñándome como desarrollador líder en Startup 
+          Hubs, San Francisco. En esta etapa, he liderado la adopción de tecnologías emergentes y 
+          metodologías ágiles en nuestro proceso de desarrollo, lo que ha permitido una entrega más 
+          rápida y eficiente de productos de alta calidad. He sido responsable de establecer y 
+          mantener las mejores prácticas de desarrollo, así como de fomentar un entorno de trabajo 
+          colaborativo y de aprendizaje continuo. Además, he trabajado estrechamente con la alta 
+          dirección para desarrollar estrategias de crecimiento a largo plazo y para mantener a la 
+          empresa a la vanguardia de la innovación tecnológica.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Como Ingeniero de Software Senior en Google, Londres, mi papel principal fue contribuir 
+          al desarrollo de productos y servicios de software de vanguardia. Trabajé en estrecha 
+          colaboración con equipos multidisciplinarios para diseñar, desarrollar y mantener 
+          soluciones tecnológicas innovadoras. Mi enfoque estaba en la creación de software de alta 
+          calidad que cumpliera con los estándares de excelencia de Google y que ofreciera una 
+          experiencia de usuario superior. Además, participé en la revisión de código, la resolución 
+          de problemas técnicos y la optimización del rendimiento del software.
       - role: Desarrollador de UI
         time: 2012 - 2014
         company: Amazon, Londres
@@ -156,19 +153,18 @@ certifications:
           credentialurl: www.google.com
           credentialname: Google
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            Este programa de certificación proporcionó una formación integral en técnicas avanzadas 
+            de análisis de datos y visualización. Los temas cubiertos incluyeron minería de datos, 
+            algoritmos de aprendizaje automático y desarrollo de paneles interactivos. A lo largo 
+            del programa, adquirí experiencia práctica con herramientas estándar de la industria 
+            como Python, R y Tableau. 
+            
+            Además, completé un proyecto final donde analicé un conjunto de datos del mundo real 
+            para extraer ideas accionables para una empresa minorista ficticia. Este proyecto 
+            implicó preprocesamiento de datos, análisis exploratorio de datos y modelado predictivo 
+            para identificar los factores clave que influyen en el rendimiento de ventas. Mis 
+            hallazgos fueron presentados en un informe detallado y un panel interactivo, demostrando 
+            mi capacidad para traducir datos complejos en recomendaciones comerciales accionables.
         - name: Git learning
           start: 2019
           end:
@@ -177,15 +173,16 @@ certifications:
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+            Esta certificación se centró en el dominio de Git y GitHub como herramientas 
+            fundamentales para el desarrollo de software colaborativo. Durante el programa, 
+            profundicé en los conceptos de control de versiones, ramificación, fusión y colaboración 
+            en equipos distribuidos.
+            
+            Además, participé en proyectos prácticos donde utilicé Git para gestionar eficientemente 
+            el flujo de trabajo de desarrollo, resolver conflictos de fusión y mantener un historial 
+            de cambios transparente y organizado. A través de esta experiencia, adquirí habilidades 
+            sólidas en el uso avanzado de Git y GitHub, lo que me ha permitido contribuir de manera 
+            efectiva a proyectos de código abierto y colaborativos.
 projects:
     title: Projects
     intro: >
@@ -255,7 +252,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades y Proficiencia
 
     toolset:
       - name: Python & Django
