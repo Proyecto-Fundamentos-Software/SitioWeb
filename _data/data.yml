@@ -153,19 +153,18 @@ certifications:
           credentialurl: www.google.com
           credentialname: Google
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            Este programa de certificación proporcionó una formación integral en técnicas avanzadas 
+            de análisis de datos y visualización. Los temas cubiertos incluyeron minería de datos, 
+            algoritmos de aprendizaje automático y desarrollo de paneles interactivos. A lo largo 
+            del programa, adquirí experiencia práctica con herramientas estándar de la industria 
+            como Python, R y Tableau. 
+            
+            Además, completé un proyecto final donde analicé un conjunto de datos del mundo real 
+            para extraer ideas accionables para una empresa minorista ficticia. Este proyecto 
+            implicó preprocesamiento de datos, análisis exploratorio de datos y modelado predictivo 
+            para identificar los factores clave que influyen en el rendimiento de ventas. Mis 
+            hallazgos fueron presentados en un informe detallado y un panel interactivo, demostrando 
+            mi capacidad para traducir datos complejos en recomendaciones comerciales accionables.
         - name: Git learning
           start: 2019
           end:
