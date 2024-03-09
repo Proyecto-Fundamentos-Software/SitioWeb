@@ -104,7 +104,7 @@ education:
             Universidad Virtual Tech. Durante el curso, adquirí conocimientos prácticos sobre 
             el desarrollo de aplicaciones para dispositivos móviles utilizando las últimas 
             tecnologías y herramientas disponibles en el mercado. 
-experiences:
+experiencias:
     title: Experiences
     info:
       - role: Desarrollador líder
@@ -173,14 +173,16 @@ certifications:
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Esta certificación se centró en el dominio de Git y GitHub como herramientas 
+            fundamentales para el desarrollo de software colaborativo. Durante el programa, 
+            profundicé en los conceptos de control de versiones, ramificación, fusión y colaboración 
+            en equipos distribuidos.
+            
+            Además, participé en proyectos prácticos donde utilicé Git para gestionar eficientemente 
+            el flujo de trabajo de desarrollo, resolver conflictos de fusión y mantener un historial 
+            de cambios transparente y organizado. A través de esta experiencia, adquirí habilidades 
+            sólidas en el uso avanzado de Git y GitHub, lo que me ha permitido contribuir de manera 
+            efectiva a proyectos de código abierto y colaborativos.
 
 projects:
     title: Projects
@@ -228,27 +230,31 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+publicaciones:
+    title: "Explorando el Potencial de la Computación Cuántica en la Criptografía Moderna"
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Este trabajo representa una incursión innovadora en el mundo de la criptografía moderna, 
+      donde se desentraña el potencial revolucionario de la computación cuántica. Desde el enigma de 
+      la factorización de números enteros hasta el diseño de algoritmos resistentes a los ataques 
+      cuánticos, este artículo ofrece una visión profunda de cómo la criptografía está evolucionando 
+      en la era de la computación cuántica. Con un enfoque multidisciplinario que abarca la física 
+      cuántica, las matemáticas y la informática, este trabajo propone nuevas direcciones en la 
+      seguridad de la información.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Quantum Key Distribution: The Future of Secure Communication"
+        link: "https://example.com/quantum-key-distribution"
+        authors: Pérez, J., Rodríguez, S., González, E.
+        conference: "International Conference on Quantum Computing, 2023"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Cryptographic Paradigm Shift: Adapting to the Quantum Era"
+        link: "https://example.com/cryptographic-paradigm-shift"
+        authors: Smith, A., Johnson, L., Lee, Q.
+        conference: "IEEE Symposium on Quantum Security, 2022"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "The Evolution of Quantum-resistant Cryptography"
+        link: "https://example.com/evolution-quantum-cryptography"
+        authors: Williams, M., Chen, X., García, L.
+        conference: "Journal of Quantum Cryptography, Volume 5, Issue 2, 2024"
 
 skills:
     title: Skills &amp; Proficiency
