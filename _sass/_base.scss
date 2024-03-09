@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Raleway", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
@@ -19,10 +19,10 @@ h6 {
 }
 
 a {
-  color: DarkSlateGray($theme-color, 15%);
+  color: #2F4F4F; 
   &:hover {
     text-decoration: underline;
-    color: darken($theme-color, 30%);
+    color: #1C3131; 
   }
   &:focus {
     text-decoration: none;
