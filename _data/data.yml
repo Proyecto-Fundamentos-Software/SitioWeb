@@ -110,7 +110,7 @@ experiences:
       - role: Desarrollador líder
         time: 2019 - Pasado
         company: Startup Hubs, San Francisco
-        details: |
+        details: 
           Durante los últimos años, he seguido desempeñándome como desarrollador líder en Startup 
           Hubs, San Francisco. En esta etapa, he liderado la adopción de tecnologías emergentes y 
           metodologías ágiles en nuestro proceso de desarrollo, lo que ha permitido una entrega más 
@@ -122,7 +122,7 @@ experiences:
       - role: Ingeniero de Software Senior
         time: 2014 - 2015
         company: Google, Londres
-        details: |
+        details: 
           Como Ingeniero de Software Senior en Google, Londres, mi papel principal fue contribuir 
           al desarrollo de productos y servicios de software de vanguardia. Trabajé en estrecha 
           colaboración con equipos multidisciplinarios para diseñar, desarrollar y mantener 
@@ -133,7 +133,7 @@ experiences:
       - role: Desarrollador de UI
         time: 2012 - 2014
         company: Amazon, Londres
-        details: |
+        details: 
           Como Desarrollador de UI en Amazon, Londres, mi función principal fue diseñar y 
           desarrollar interfaces de usuario eficientes y atractivas para aplicaciones web y móviles. 
           Trabajé en colaboración con equipos de diseño y desarrollo para traducir los requisitos de 
@@ -141,7 +141,6 @@ experiences:
           me encargué de la optimización del rendimiento y la compatibilidad multiplataforma de las 
           interfaces de usuario, asegurando una experiencia de usuario óptima en diferentes 
           dispositivos y navegadores.
-
 certifications:
       title: Certificaciones
       list:
@@ -183,10 +182,9 @@ certifications:
             de cambios transparente y organizado. A través de esta experiencia, adquirí habilidades 
             sólidas en el uso avanzado de Git y GitHub, lo que me ha permitido contribuir de manera 
             efectiva a proyectos de código abierto y colaborativos.
-
 projects:
-    title: Projectos
-    intro: >
+    title: Proyectos
+    intro: 
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -232,7 +230,7 @@ oss:
 
 publications:
     title: Publications
-    intro: |
+    intro: 
       Lista de publicaciones hechas.
     papers:
       - title: "Quantum Key Distribution: The Future of Secure Communication"
@@ -251,7 +249,7 @@ publications:
         conference: "Journal of Quantum Cryptography, Volume 5, Issue 2, 2024"
 
 skills:
-    title: Habilidades y competencias
+    title: Habilidades y Competencias
 
     toolset:
       - name: Python & Django
@@ -266,11 +264,6 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 80%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
