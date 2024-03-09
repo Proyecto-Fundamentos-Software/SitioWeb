@@ -105,12 +105,12 @@ education:
             el desarrollo de aplicaciones para dispositivos móviles utilizando las últimas 
             tecnologías y herramientas disponibles en el mercado. 
 experiences:
-    title: Experiences
+    title: Experiencias
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role: Desarrollador líder
+        time: 2019 - Pasado
         company: Startup Hubs, San Francisco
-        details: |
+        details: 
           Durante los últimos años, he seguido desempeñándome como desarrollador líder en Startup 
           Hubs, San Francisco. En esta etapa, he liderado la adopción de tecnologías emergentes y 
           metodologías ágiles en nuestro proceso de desarrollo, lo que ha permitido una entrega más 
@@ -119,10 +119,10 @@ experiences:
           colaborativo y de aprendizaje continuo. Además, he trabajado estrechamente con la alta 
           dirección para desarrollar estrategias de crecimiento a largo plazo y para mantener a la 
           empresa a la vanguardia de la innovación tecnológica.
-      - role: Senior Software Engineer
+      - role: Ingeniero de Software Senior
         time: 2014 - 2015
-        company: Google, London
-        details: |
+        company: Google, Londres
+        details: 
           Como Ingeniero de Software Senior en Google, Londres, mi papel principal fue contribuir 
           al desarrollo de productos y servicios de software de vanguardia. Trabajé en estrecha 
           colaboración con equipos multidisciplinarios para diseñar, desarrollar y mantener 
@@ -133,7 +133,7 @@ experiences:
       - role: Desarrollador de UI
         time: 2012 - 2014
         company: Amazon, Londres
-        details: |
+        details: 
           Como Desarrollador de UI en Amazon, Londres, mi función principal fue diseñar y 
           desarrollar interfaces de usuario eficientes y atractivas para aplicaciones web y móviles. 
           Trabajé en colaboración con equipos de diseño y desarrollo para traducir los requisitos de 
@@ -141,9 +141,8 @@ experiences:
           me encargué de la optimización del rendimiento y la compatibilidad multiplataforma de las 
           interfaces de usuario, asegurando una experiencia de usuario óptima en diferentes 
           dispositivos y navegadores.
-
 certifications:
-      title: Certifications
+      title: Certificaciones
       list:
         - name: CV Builder
           start: 2020
@@ -184,8 +183,8 @@ certifications:
             sólidas en el uso avanzado de Git y GitHub, lo que me ha permitido contribuir de manera 
             efectiva a proyectos de código abierto y colaborativos.
 projects:
-    title: Projects
-    intro: >
+    title: Proyectos
+    intro: 
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -231,47 +230,39 @@ oss:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
+      Lista de publicaciones hechas.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Quantum Key Distribution: The Future of Secure Communication"
+        link: "https://example.com/quantum-key-distribution"
+        authors: Pérez, J., Rodríguez, S., González, E.
+        conference: "International Conference on Quantum Computing, 2023"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Cryptographic Paradigm Shift: Adapting to the Quantum Era"
+        link: "https://example.com/cryptographic-paradigm-shift"
+        authors: Smith, A., Johnson, L., Lee, Q.
+        conference: "IEEE Symposium on Quantum Security, 2022"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "The Evolution of Quantum-resistant Cryptography"
+        link: "https://example.com/evolution-quantum-cryptography"
+        authors: Williams, M., Chen, X., García, L.
+        conference: "Journal of Quantum Cryptography, Volume 5, Issue 2, 2024"
 
 skills:
-    title: Habilidades y Proficiencia
-
+    title: Habilidades y Competencias
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 95%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 99%
 
       - name: Angular
-        level: 98%
+        level: 90%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
