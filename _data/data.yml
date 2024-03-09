@@ -231,15 +231,9 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: "Explorando el Potencial de la Computación Cuántica en la Criptografía Moderna"
+    title: Publications
     intro: |
-      Este trabajo representa una incursión innovadora en el mundo de la criptografía moderna, 
-      donde se desentraña el potencial revolucionario de la computación cuántica. Desde el enigma de 
-      la factorización de números enteros hasta el diseño de algoritmos resistentes a los ataques 
-      cuánticos, este artículo ofrece una visión profunda de cómo la criptografía está evolucionando 
-      en la era de la computación cuántica. Con un enfoque multidisciplinario que abarca la física 
-      cuántica, las matemáticas y la informática, este trabajo propone nuevas direcciones en la 
-      seguridad de la información.
+      Lista de publicaciones hechas.
     papers:
       - title: "Quantum Key Distribution: The Future of Secure Communication"
         link: "https://example.com/quantum-key-distribution"
