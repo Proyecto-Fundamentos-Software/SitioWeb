@@ -104,8 +104,8 @@ education:
             Universidad Virtual Tech. Durante el curso, adquirí conocimientos prácticos sobre 
             el desarrollo de aplicaciones para dispositivos móviles utilizando las últimas 
             tecnologías y herramientas disponibles en el mercado. 
-experiencias:
-    title: Experiences
+experiences:
+    title: Experiencias
     info:
       - role: Desarrollador líder
         time: 2019 - Pasado
@@ -119,10 +119,10 @@ experiencias:
           colaborativo y de aprendizaje continuo. Además, he trabajado estrechamente con la alta 
           dirección para desarrollar estrategias de crecimiento a largo plazo y para mantener a la 
           empresa a la vanguardia de la innovación tecnológica.
-      - rol: Ingeniero de Software Senior
-        tiempo: 2014 - 2015
-        empresa: Google, Londres
-        detalles: |
+      - role: Ingeniero de Software Senior
+        time: 2014 - 2015
+        company: Google, Londres
+        details: |
           Como Ingeniero de Software Senior en Google, Londres, mi papel principal fue contribuir 
           al desarrollo de productos y servicios de software de vanguardia. Trabajé en estrecha 
           colaboración con equipos multidisciplinarios para diseñar, desarrollar y mantener 
@@ -130,10 +130,10 @@ experiencias:
           calidad que cumpliera con los estándares de excelencia de Google y que ofreciera una 
           experiencia de usuario superior. Además, participé en la revisión de código, la resolución 
           de problemas técnicos y la optimización del rendimiento del software.
-      - rol: Desarrollador de UI
-        tiempo: 2012 - 2014
-        empresa: Amazon, Londres
-        detalles: |
+      - role: Desarrollador de UI
+        time: 2012 - 2014
+        company: Amazon, Londres
+        details: |
           Como Desarrollador de UI en Amazon, Londres, mi función principal fue diseñar y 
           desarrollar interfaces de usuario eficientes y atractivas para aplicaciones web y móviles. 
           Trabajé en colaboración con equipos de diseño y desarrollo para traducir los requisitos de 
@@ -143,7 +143,7 @@ experiencias:
           dispositivos y navegadores.
 
 certifications:
-      title: Certifications
+      title: Certificaciones
       list:
         - name: CV Builder
           start: 2020
@@ -185,7 +185,7 @@ certifications:
             efectiva a proyectos de código abierto y colaborativos.
 
 projects:
-    title: Projects
+    title: Projectos
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -230,7 +230,7 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publicaciones:
+publications:
     title: "Explorando el Potencial de la Computación Cuántica en la Criptografía Moderna"
     intro: |
       Este trabajo representa una incursión innovadora en el mundo de la criptografía moderna, 
