@@ -250,7 +250,6 @@ publications:
 
 skills:
     title: Habilidades y Competencias
-
     toolset:
       - name: Python & Django
         level: 95%
