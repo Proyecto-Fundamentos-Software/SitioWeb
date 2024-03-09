@@ -229,24 +229,29 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Publicaciones
     intro: 
-      Lista de publicaciones hechas.
+      Exploramos avances recientes en tres áreas clave de la tecnología el procesamiento 
+      del lenguaje natural, la computación cuántica y la tecnología blockchain. En estas 
+      publicaciones, analizamos los últimos desarrollos y tendencias emergentes en cada campo, 
+      destacando su potencial para transformar la forma en que interactuamos con la tecnología y 
+      abordamos desafíos en la sociedad actual.
     papers:
-      - title: "Quantum Key Distribution: The Future of Secure Communication"
-        link: "https://example.com/quantum-key-distribution"
-        authors: Pérez, J., Rodríguez, S., González, E.
-        conference: "International Conference on Quantum Computing, 2023"
+      - title: "Avances en Arquitecturas de Redes Neuronales para el Procesamiento del Lenguaje Natural"
+        link: "https://ejemplo.com/arquitecturas-redes-neuronales-pln"
+        authors: López, M., Martínez, P., González, E., Bernal, Arley
+        conference: "Conferencia Internacional sobre Aprendizaje Automático, 2023"
 
-      - title: "Cryptographic Paradigm Shift: Adapting to the Quantum Era"
-        link: "https://example.com/cryptographic-paradigm-shift"
-        authors: Smith, A., Johnson, L., Lee, Q.
-        conference: "IEEE Symposium on Quantum Security, 2022"
+      - title: "Tendencias Emergentes en Algoritmos de Computación Cuántica"
+        link: "https://ejemplo.com/algoritmos-computacion-cuantica"
+        authors: García, L., Rodríguez, S., Pérez, J., Bernal, Arley
+        conference: "Simposio Internacional de la IEEE sobre Computación Cuántica, 2022"
 
-      - title: "The Evolution of Quantum-resistant Cryptography"
-        link: "https://example.com/evolution-quantum-cryptography"
-        authors: Williams, M., Chen, X., García, L.
-        conference: "Journal of Quantum Cryptography, Volume 5, Issue 2, 2024"
+      - title: "Tecnología Blockchain: Desafíos Actuales y Direcciones Futuras"
+        link: "https://ejemplo.com/tecnologia-blockchain-desafios"
+        authors: Smith, A., Johnson, L., Lee, Q., Bernal, Arley
+        conference: "Conferencia Internacional sobre Blockchain, 2024"
+
 
 skills:
     title: Habilidades y Competencias
