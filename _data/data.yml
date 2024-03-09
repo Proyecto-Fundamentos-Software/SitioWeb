@@ -251,23 +251,23 @@ publications:
         conference: "Journal of Quantum Cryptography, Volume 5, Issue 2, 2024"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades y competencias
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 95%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 99%
 
       - name: Angular
-        level: 98%
+        level: 90%
 
       - name: HTML5 & CSS
         level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 80%
 
       - name: Sketch & Photoshop
         level: 60%
